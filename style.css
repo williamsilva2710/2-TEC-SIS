@@ -1,9 +1,12 @@
 body{
     background-color: black;
+    
 }
 
 h1{
     color: red;
+    
+
 }
 
 #green{
@@ -13,4 +16,10 @@ h1{
 
 #blue{
     color: blue;
+}
+
+#cubo{
+    position: relative;
+     left: 100px;
+    
 }
